@@ -3,6 +3,6 @@ from .views import index, imagem
 
 
 urlpatterns = [
-    path('Home/', index, name='index'),
+    path('home/', index, name='index'),
     path('imagem/', imagem, name='imagem')
 ]
