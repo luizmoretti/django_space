@@ -1,6 +1,3 @@
-Claro, aqui está o texto completo em um único arquivo Markdown:
-
-```markdown
 # Django Space - Repositório de Estudos
 
 Bem-vindo ao repositório "Django Space"! Este é um diretório dedicado ao aprendizado e desenvolvimento de aplicações web utilizando o framework Django.
